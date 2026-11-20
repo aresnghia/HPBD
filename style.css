@@ -812,3 +812,11 @@ body::before {
   background: var(--rose);
   box-shadow: 0 0 10px var(--rose);
 }
+.privacyNote {
+  margin-top: 4px;
+  font-size: 10px;
+  color: rgba(255, 215, 230, 0.55);
+  font-weight: 400;
+  text-align: center;
+  line-height: 1.5;
+}
